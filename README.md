@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a very simple extension for AbanteCart
+- 🌱 I’m currently learning Microsoft Azure (on the learning path to the solution architect certification) and rediscovering PHP 🤯
+- 👯 I’m looking to collaborate on anthing cool and open source
+- 🤔 I’m looking for help with the PHP thing stated above as it's hard to start
+- ⚡ Fun fact: I won't be able to understand requests in (natural) languages I did not master so far 
